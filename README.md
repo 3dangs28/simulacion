@@ -39,3 +39,5 @@ Lista de estudiates:
 
 10. Eduardo Barria eduardo_barria@yahoo.com
 
+17. Angel Garcia 3dangs28@gmail.com
+
